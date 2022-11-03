@@ -46,6 +46,4 @@ public class ResourceService {
 		
 		return summary;
 	}
-	
-	
 }
